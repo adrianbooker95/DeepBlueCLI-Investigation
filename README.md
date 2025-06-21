@@ -55,9 +55,9 @@ This investigation focused on analyzing RDP compromise and Meterpreter activity 
 
 ## 📺 Video Walk-through
 
-Want to see the full investigation in action?  
-Watch this Deep Blue lab walkthrough on YouTube:  
-🎥 [Solving The "Deep Blue" Investigation Lab!](https://www.youtube.com/watch?v=3FwH033NJxg)
+[![Watch the walkthrough](https://img.youtube.com/vi/3FwH033NJxg/0.jpg)](https://www.youtube.com/watch?v=3FwH033NJxg)
+
+*Click the image above to watch a full walkthrough of the Deep Blue investigation lab on YouTube.*
 
 ---
 
