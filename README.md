@@ -1,3 +1,4 @@
+[![Investigation Project](https://img.shields.io/badge/Project-DFIR-blue)](https://github.com/adrianbooker95/DeepBlueCLI-Investigation)
 
 # 🔍 DeepBlueCLI Incident Response Investigation
 
