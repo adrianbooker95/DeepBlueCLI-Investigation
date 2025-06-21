@@ -50,6 +50,14 @@ This investigation focused on analyzing RDP compromise and Meterpreter activity 
 
 ---
 
+## 📺 Video Walk-through
+
+Want to see the full investigation in action?  
+Watch this Deep Blue lab walkthrough on YouTube:  
+🎥 [Solving The "Deep Blue" Investigation Lab!](https://www.youtube.com/watch?v=3FwH033NJxg)
+
+---
+
 ## 🧠 What I Learned
 
 - How to parse EVTX logs with CLI tools  
