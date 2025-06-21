@@ -48,6 +48,9 @@ This investigation focused on analyzing RDP compromise and Meterpreter activity 
 ![Meterpreter activity timestamp](screenshots/q2-meterpreter.png)  
 *Meterpreter pipe identified in EVTX logs.*
 
+![Service account added to Administrators](screenshots/q6-group-membership.png)  
+*Persistence via group membership detected.*
+
 ---
 
 ## 📺 Video Walk-through
